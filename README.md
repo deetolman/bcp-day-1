@@ -1,5 +1,5 @@
 # My Cool Project
-**hello** git\! and **GitHub**\!
+**HELLO** Git\! and **GitHub**\!
 
 What a day
 
