@@ -17,3 +17,10 @@ Standard Git Repos have a `README.md` at the root that describe developer instru
 
 ```js
 var x = 1 + 2;
+```
+## Things to pick up
+* Milk
+* Ice Cream
+* Cheese
+
+_And don't forget the eggs!_
